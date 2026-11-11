@@ -1,0 +1,23 @@
+aid: hindujaleylandfinance
+name: Hinduja Leyland Finance
+description: 'Hinduja Leyland Finance is a company surfaced via the API Evangelist harvest backlog (source:
+  apisio-search-qc-2026-10-24) and added to the network as a stub for full-pipeline profiling.'
+url: https://artifacts.apis.io/hindujaleylandfinance/apis.yml
+x-type: company
+x-source: harvest:apisio-search-qc-2026-10-24
+x-tier: stub
+x-tier-reason: harvest
+specificationVersion: '0.20'
+created: '2026-11-11'
+modified: '2026-11-11'
+tags:
+- Company
+apis: []
+maintainers:
+- FN: Kin Lane
+  email: kin@apievangelist.com
+- FN: APIs.json
+  email: info@apis.io
+common:
+- type: Website
+  url: https://www.hindujaleylandfinance.com
